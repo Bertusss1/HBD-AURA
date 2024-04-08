@@ -108,3 +108,12 @@ td {
     padding: 10PX;
     border: 10PX lightyellow SOLID;
 }
+
+@media (min-width: 600px) {
+    .Aura {
+      flex-direction: column;
+      height: 100%;
+      width: 100%;
+      float: none;
+    }
+  }
