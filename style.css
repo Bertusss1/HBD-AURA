@@ -1,0 +1,110 @@
+html {
+    background-color: pink;
+}
+
+h1 {
+    font-family: Honk;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Aura {
+    float: left;
+    border: 10px plum solid;
+}
+
+.deskripsi {
+    font-family: Bungee Spice; sans-serif;
+    font-size: 2rem;
+}
+
+.congrats {
+    font-family: Honk;
+    font-size: 80px;
+    align-items: Center;
+    justify-content: Center;
+    display: flex;
+}
+
+.Penjelasan {
+    margin : 50px;
+    background-color: lightyellow;
+    border: 0;
+    border-radius: 10px;
+    float: none;
+    margin-left: 23%;
+    line-height: 50px;
+    border: 10px plum solid;
+    padding-left: 10PX;
+}
+
+.Atas {
+ display: flex;
+ justify-content: center;
+ padding: 0;
+ margin: 0;
+ background-color: palevioletred;
+ border: 10px plum solid;
+ border-radius: 50px;
+}
+
+.judul {
+    margin: 0;
+    padding: 0;
+}
+
+.Album {
+    background-color: salmon;
+    display: inline;
+    border-radius: 5px;
+    font-family: Honk;
+    font-size: 60px;
+    margin: 0;
+    float: none;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    margin: 20px;
+}
+
+
+.List {
+    background-color: lightyellow;
+    border : 10px plum solid;
+    display: inline-block;
+    padding: 10px;
+    font-size: 60px;
+    padding-top: 0;
+    width: 30;%
+}
+
+.Row1 {
+ background-color: lightyellow;
+ border: 10PX plum solid;
+ padding: 10PX;
+ font-size: 50PX;
+ padding-left: 50px;
+ padding-right: 50px;
+}
+
+.Row2 {
+    background-color: lightyellow;
+    border: 10PX plum solid;
+    padding: 1px;
+    font-size: 40PX;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: inline-block;
+}
+
+.ALBUMS {
+    background-color: plum;
+    padding: 10PX;
+    border: 10PX lightyellow SOLID;
+}
